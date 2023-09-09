@@ -15,13 +15,13 @@ also used. All of the above is simulated and tested using a Differential Drive b
 Mobile Robot. [Read Report](ED18B027_Final_Report.pdf)
 
 ## TurtleBot3 World Static
-<img src="results/world_static_gazebo.gif" width="500"/><img src="results/world_static_paths.gif" width="500"/>
+<img src="results/world_static_gazebo.gif" width="400"/><img src="results/world_static_paths.gif" width="400"/>
 
 ## ED Floor Static
-<img src="results/ed_static_gazebo.gif" width="500"/><img src="results/ed_static_paths.gif" width="500"/>
+<img src="results/ed_static_gazebo.gif" width="400"/><img src="results/ed_static_paths.gif" width="400"/>
 
 ## ED Floor with Dynamic Obstacles
-<img src="results/ed_dyn_gazebo.gif" width="500"/><img src="results/ed_dyn_paths.gif" width="500"/>
+<img src="results/ed_dyn_gazebo.gif" width="400"/><img src="results/ed_dyn_paths.gif" width="400"/>
 
 ## Implementation Flow Diagram
 ![image](https://github.com/Rohitth007/hierarchical_planner_dyn_obstacles/assets/64144419/910e61cc-ec08-49f5-9b8b-bb826554e871)
